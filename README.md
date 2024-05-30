@@ -1,4 +1,4 @@
-# ![diengwinz] (https://github.com/DiengWinz/DiengWinz/blob/main/twitter-min.jpg)
+# ![diengwinz](https://github.com/DiengWinz/DiengWinz/blob/main/twitter-min.jpg)
 
 #
  
