@@ -1,6 +1,8 @@
-## Hi there 👋
+
 # Profile
 # Bienvenue sur le profil GitHub de Thierno Bocar DIENG 👋
+
+# ![diengwinz](https://github.com/DiengWinz/DiengWinz/blob/main/twitter-min.jpg)
 
 ## À propos de moi
 Je suis un passionné de la data science, spécialisé en analyse de données et développement logiciel Python. Actuellement, je travaille comme data analyste junior chez [nom de votre entreprise ou organisation].
