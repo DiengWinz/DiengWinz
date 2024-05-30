@@ -47,6 +47,7 @@ My life turns around 🚀Technology💻, 🧪Science🔭 and 🚗Cars🚘, and a
 <img width="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"/>
 <img width="40" src="https://cdn.svgporn.com/logos/mysql.svg"/>
 <img width="40" src="https://cdn.svgporn.com/logos/postgresql.svg"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 
 <img width="40" src="https://cdn.svgporn.com/logos/bootstrap.svg"/>
 
