@@ -42,6 +42,8 @@ My life turns around 🚀Technology💻, 🧪Science🔭 and 🚗Cars🚘, and a
 
 <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"/>
 
+<img width="60" src="https://www.bing.com/images/search?view=detailV2&ccid=WwXtTG8%2f&id=7A84F9F1B73D061797CC6FCF21FA979AF43F5BF3&thid=OIP.WwXtTG8_vtxWGz1c34lQQQHaBx&mediaurl=https%3a%2f%2fmatplotlib.org%2f2.1.1%2f_static%2flogo2.svg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.5b05ed4c6f3fbedc561b3d5cdf895041%3frik%3d81s%252f9JqX%252biHPbw%26pid%3dImgRaw%26r%3d0&exph=216&expw=900&q=matplotlib+icone+svg&simid=608055932643531786&FORM=IRPRST&ck=68FA1F5D2FA3648B42E73A52DD090C3D&selectedIndex=3&itb=0&ajaxhist=0&ajaxserp=0"/>
+
 <img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg"/>
 
 <img width="40" src="https://cdn.svgporn.com/logos/google-analytics.svg"/>
