@@ -63,7 +63,6 @@ Bienvenue à bord et bonne exploration ! 🚀
 <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"/>
 <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg"/>
 <img width="60" src="https://github.com/gilbarbara/logos/blob/main/logos/seaborn-icon.svg"/>
-<img width="60" src="https://github.com/gilbarbara/logos/blob/main/logos/seaborn-icon.svg"/>
 <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg"/>
 <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Talend_logo.svg"/>
 <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg"/>
@@ -79,9 +78,28 @@ Bienvenue à bord et bonne exploration ! 🚀
 <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg"/>
 <img width="80" src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Mongodb-icon.svg"/>
 <img width="60" src="https://th.bing.com/th/id/OIP.aQszwhgLKtGQXYk6hiLrvgAAAA?rs=1&pid=ImgDetMain"/>
+<img width="60" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg"/>
+<img width="60" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg"/>
+<img width="60" src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg"/>
+<img width="60" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg"/>
+<img width="60" src="https://th.bing.com/th/id/OIP.X745VG5cV-EmpffC2ohy7wHaHu?rs=1&pid=ImgDetMain"/>
+<img width="60" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Heroku_logo.svg"/>
+<img width="60" src="https://upload.wikimedia.org/wikipedia/fr/4/45/Hugging_Face_logo.svg"/>
+<img width="60" src="https://th.bing.com/th/id/OIP.M1ZNAilbmHPAEqwF5-9RSwHaBu?rs=1&pid=ImgDetMain"/>
+<img width="60" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg"/>
+<img width="60" src="https://www.clipartkey.com/mpngs/m/169-1697212_amazon-aws-aws-svg.png"/>
+<img width="60" src="https://th.bing.com/th/id/OIP.sJHsud-TUY_A34AbNJHYCQHaHa?rs=1&pid=ImgDetMain"/>
+<img width="90" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Slack_icon_2019.svg"/>
+<img width="60" src="https://www.svgrepo.com/show/303635/trello-logo.svg"/>
+<img width="90" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/HubSpot_Logo.svg"/>
+<img width="60" src="https://img.icons8.com/?size=100&id=rGFIfTXH5cHM&format=png&color=000000"/>
+<img width="80" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg"/>
+<img width="60" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg"/>
+<img width="60" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"/>
+<img width="80" src=".github/Detectron2-Logo-Horz.svg"/>
+<img width="60" src="https://upload.wikimedia.org/wikipedia/commons/4/45/OpenVINO_logo.svg"/>
 <img width="60" src=""/>
 <img width="60" src=""/>
-
 
 
 <img width="40" src="https://cdn.svgporn.com/logos/google-analytics.svg"/>
