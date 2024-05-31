@@ -92,15 +92,11 @@ Bienvenue à bord et bonne exploration ! 🚀
 <img width="90" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Slack_icon_2019.svg"/>
 <img width="60" src="https://www.svgrepo.com/show/303635/trello-logo.svg"/>
 <img width="90" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/HubSpot_Logo.svg"/>
-<img width="60" src="https://img.icons8.com/?size=100&id=rGFIfTXH5cHM&format=png&color=000000"/>
+<img width="80" src="https://img.icons8.com/?size=100&id=rGFIfTXH5cHM&format=png&color=000000"/>
 <img width="80" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg"/>
 <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg"/>
 <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"/>
-<img width="80" src=".github/Detectron2-Logo-Horz.svg"/>
 <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/4/45/OpenVINO_logo.svg"/>
-<img width="60" src=""/>
-<img width="60" src=""/>
-
 
 <img width="40" src="https://cdn.svgporn.com/logos/google-analytics.svg"/>
 
