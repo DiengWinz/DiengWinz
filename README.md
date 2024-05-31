@@ -32,7 +32,6 @@ My life turns around 🚀Technology💻, 🧪Science🔭 and 🚗Cars🚘, and a
 <img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/>
 
 <img width="40" src="https://cdn.svgporn.com/logos/java.svg"/>
-<img width="40" src="https://cdn.svgporn.com/logos/spring-icon.svg"/>
 
 <img width="40" src="https://cdn.svgporn.com/logos/python.svg"/>
 <img width="40" src="https://cdn.svgporn.com/logos/django-icon.svg"/>
@@ -55,6 +54,14 @@ My life turns around 🚀Technology💻, 🧪Science🔭 and 🚗Cars🚘, and a
 <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/3/35/GitLab_icon.svg"/>
 <img width="60" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000"/>
 <img width="60" src="https://th.bing.com/th/id/OIP.RJqwnRwzFT4xWx20C2WcjgHaDt?rs=1&pid=ImgDetMain"/>
+<img width="60" src="https://rud.is/b/wp-content/uploads/2016/02/RStudio.png"/>
+<img width="80" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"/>
+<img width="60" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg"/>
+<img width="80" src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Mongodb-icon.svg"/>
+<img width="60" src="https://th.bing.com/th/id/OIP.aQszwhgLKtGQXYk6hiLrvgAAAA?rs=1&pid=ImgDetMain"/>
+<img width="60" src=""/>
+<img width="60" src=""/>
+
 
 
 <img width="40" src="https://cdn.svgporn.com/logos/google-analytics.svg"/>
