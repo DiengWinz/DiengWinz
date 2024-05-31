@@ -12,9 +12,33 @@
 ________
 <h1 align="left">🤩 About Dieng Winz 🤔</h1>
 <p  align="left">
-<strong>Hello Ningens 🐱‍👤, I am a Space Conquerer 🔮.<br>
-My life turns around 🚀Technology💻, 🧪Science🔭 and 🚗Cars🚘, and a little bit of writing in my spare time.
-<br>My tech journey is consisting of very nerdy stuffs like K8s, Docker, Linux, Angullar, NestJs, BI, Nginx and So on (Like All Sysadmins Stuffs).</strong>
+
+# 🌟 Bienvenue sur mon GitHub ! 🌟
+
+Salut tout le monde ! Je suis <strong>Thierno Bocar DIENG</strong>, un jeune Sénégalais passionné par la data science et le développement Django. 👨🏾‍💻✨ <br>
+
+ Un peu plus sur moi
+
+- **Data Scientiste** 📊: Plonger dans les données et en extraire des insights précieux est ce qui me motive chaque jour. 
+- **Développeur Django** 🛠️: J'adore créer des applications web robustes et scalables avec Django.
+- **Enthousiaste en IA (option NLP)** 🤖: L'intelligence artificielle, surtout le traitement du langage naturel, est une de mes grandes passions.
+- **Entrepreneur Numérique** 🚀: Toujours à la recherche de nouvelles idées pour innover et entreprendre dans le monde numérique.
+
+### Quelques citations inspirantes 🌟
+
+> "L'imagination est plus importante que le savoir." - *Albert Einstein*
+
+> "Le succès n'est pas la clé du bonheur. Le bonheur est la clé du succès. Si vous aimez ce que vous faites, vous réussirez." - *Albert Schweitzer**
+
+> "La seule façon de faire du bon travail est d'aimer ce que vous faites." - *Steve Jobs*
+
+Je suis ravi de partager mes projets et collaborations avec vous. N'hésitez pas à explorer mes repositories et à me contacter pour toute question ou collaboration. Ensemble, construisons quelque chose de génial ! 💡🌍
+
+---
+
+Bienvenue à bord et bonne exploration ! 🚀
+
+---
 </p>
 
 
