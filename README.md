@@ -30,7 +30,6 @@ My life turns around 🚀Technology💻, 🧪Science🔭 and 🚗Cars🚘, and a
 <div align="center">
 
 <img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/>
-<img width="40" src="https://cdn.svgporn.com/logos/pwa.svg"/>
 
 <img width="40" src="https://cdn.svgporn.com/logos/java.svg"/>
 <img width="40" src="https://cdn.svgporn.com/logos/spring-icon.svg"/>
@@ -44,7 +43,7 @@ My life turns around 🚀Technology💻, 🧪Science🔭 and 🚗Cars🚘, and a
 
 <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"/>
 <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg"/>
-<img width="60" src="logos/seaborn-icon.svg"/>
+<img width="60" src="https://github.com/gilbarbara/logos/blob/main/logos/seaborn-icon.svg"/>
 <img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg"/>
 
 <img width="40" src="https://cdn.svgporn.com/logos/google-analytics.svg"/>
