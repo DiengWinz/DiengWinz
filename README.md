@@ -10,7 +10,6 @@
 <p align="center"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/></p> -->
 
 ________
-<h1 align="left">🤩 About Dieng Winz 🤔</h1>
 <p  align="left">
 
 # 🌟 Bienvenue sur mon GitHub ! 🌟
@@ -55,7 +54,7 @@ Bienvenue à bord et bonne exploration ! 🚀
 <img width="40" src="https://th.bing.com/th/id/R.88eef2c4956cf1d9ffbb00a2059d9dd6?rik=5ZFdZ5LrTEaavw&pid=ImgRaw&r=0"/> 
 <img width="60" src="https://rud.is/b/wp-content/uploads/2016/02/RStudio.png"/><br>
 </div>
-_____________
+
 <div align="center">
  <h1>Data Analysis</h1>
  <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg"/>
@@ -63,7 +62,7 @@ _____________
  <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Microsoft_Excel_Logo_%282013-2019%29.svg"/>
  <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg"/><br>
  </div>
-________________
+
 <div align="center">
  <h1>Data Visualization</h1>
  <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"/>
@@ -73,25 +72,25 @@ ________________
  <img width="60" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000"/>
  <img width="60" src=" https://th.bing.com/th/id/OIP.RJqwnRwzFT4xWx20C2WcjgHaDt?rs=1&pid=ImgDetMain"/><br>
 </div>
- ______________________________
+
  <div align="center">
   <h1>Machine Learning</h1>
   <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/><br>
  </div>
- _____________________
+
  <div align="center">
   <h1>Deep Learning</h1>
   <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg"/>
   <img widh="40" scr="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg"><br>
  </div>
- ________________________
+
   <div align="center">
   <h1>Base de données</h1>
   <img width="80" src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Mongodb-icon.svg"/>
   <img width="80" src="https://th.bing.com/th/id/OIP.qW3VoyfQyClWWtpndyPQXAHaHr?rs=1&pid=ImgDetMain"/>
   <img width="80" src="https://img2.thaipng.com/20180611/pur/kisspng-microsoft-sql-server-microsoft-azure-sql-database-5b1f2919b40ab5.5565598815287687937375.jpg"/><br>
  </div>
- ___________________________
+
   <div align="center">
   <h1>Web Developpement</h1>
   <img width="40" src="https://cdn.svgporn.com/logos/django-icon.svg"/>
@@ -100,21 +99,21 @@ ________________
   <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg"/>
   <img width="40" src="https://cdn.svgporn.com/logos/figma.svg"/><br>
  </div>
- _________________________
+
   <div align="center">
   <h1>Traitement de Langage Naturel(NLP)</h1>
   <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg"/>
   <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg"/>
   <img width="60" src="https://th.bing.com/th/id/OIP.M1ZNAilbmHPAEqwF5-9RSwHaBu?rs=1&pid=ImgDetMain"/><br>
  </div>
-_____________________
+
 <div align="center">
   <h1>Computer Vision</h1>
   <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg"/>
   <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"/>
   <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/4/45/OpenVINO_logo.svg"/><br>
  </div>
- ______________________
+
 <div align="center">
   <h1>Outils de Déploiement et de Gestion</h1>
   <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"/>
@@ -122,38 +121,37 @@ _____________________
   <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Heroku_logo.svg"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/><br>
  </div>
- ________________________
+
  <div align="center">
   <h1>Plateforme Cloud</h1>
   <img width="60" src="https://www.clipartkey.com/mpngs/m/169-1697212_amazon-aws-aws-svg.png"/>
   <img width="60" src="https://th.bing.com/th/id/OIP.sJHsud-TUY_A34AbNJHYCQHaHa?rs=1&pid=ImgDetMain"/><br>
  </div>
-_________________________
+
 <div align="center">
  <h1>Gestion de Projet et Collaboration</h1>
  <img width="60" src="https://www.svgrepo.com/show/303635/trello-logo.svg"/>
  <img width="90" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Slack_icon_2019.svg"/><br>
 </div>
-____________________
+
 <div align="center">
  <h1>Marketing et CRM</h1>
  <img width="40" src="https://cdn.svgporn.com/logos/google-analytics.svg"/>
  <img width="90" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/HubSpot_Logo.svg"/>
  <img width="80" src="https://img.icons8.com/?size=100&id=rGFIfTXH5cHM&format=png&color=000000"/><br>
 </div>
-________________________________
+
 <div align="center">
  <h1>Outils de Productivité</h1>
  <img width="80" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg"/><br>
 </div>
-____________
+
 <div align="center">
  <h1>Data Engineering</h1>
  <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Talend_logo.svg"/>
  <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg"/>
  <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg"/><br>
-</div>
-________________
+
 <div align="center">
  <h1>Tools</h1>
  <img width="80" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"/>
@@ -164,7 +162,7 @@ ________________
  <img width="40" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"/>
  <img width="80" src="https://cdn.svgporn.com/logos/terminal.svg"/><br>
 </div>
-________
+
 <br>
 <br>
 <h1 align="left">📞 Contactez-moi ! ☎</h1>
