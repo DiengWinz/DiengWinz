@@ -12,7 +12,7 @@
 ________
 <p  align="center">
 
-<h2 align="center">🌟 Bienvenue sur mon GitHub ! 🌟</h2>
+<h1 align="center">🌟 Bienvenue sur mon GitHub ! 🌟</h1>
 
 Salut tout le monde ! Je suis <strong>Thierno Bocar DIENG</strong>, un jeune Sénégalais passionné par la data science et le développement Django. 👨🏾‍💻✨ <br>
 
@@ -35,7 +35,7 @@ Je suis ravi de partager mes projets et collaborations avec vous. N'hésitez pas
 
 ---
 
-Bienvenue à bord et bonne exploration ! 🚀
+<h2 align="center">Bienvenue à bord et bonne exploration ! 🚀</h2>
 
 ---
 </p>
