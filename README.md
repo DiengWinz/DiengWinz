@@ -83,9 +83,9 @@ ________
 
 <h1 align="left">📞 Let's Meet ☎</h1>
 <p align="center">
-<a href="https://www.linkedin.com/in/%F0%9D%91%BB%F0%9D%92%89%F0%9D%92%8A%F0%9D%92%86%F0%9D%92%93%F0%9D%92%8F%F0%9D%92%90-%F0%9D%91%A9%F0%9D%92%90%F0%9D%92%84%F0%9D%92%82%F0%9D%92%93-%F0%9D%91%AB%F0%9D%91%B0%F0%9D%91%AC%F0%9D%91%B5%F0%9D%91%AE-2926b219b/"><img src="https://img.shields.io/badge/LINKEDIN-@orbitturner-0e76a8?style=for-the-badge&logo=linkedin&logoColor=0e76a8&logoWidth=25" alt="social_LINKEDIN"/></a>
-<a href="https://facebook.com/diengwinz"><img src="https://img.shields.io/badge/FACEBOOK-@orbitturner-4267B2?style=for-the-badge&logo=facebook&logoColor=4267B2&logoWidth=25" alt="social_facebook"></a>
-<a href="mailto:tdieng591@gmail.com"><img src="https://img.shields.io/badge/GMAIL-@orbitturner-B23121?style=for-the-badge&logo=gmail&logoColor=B23121&logoWidth=25" alt="social_gmail"></a>
+<a href="https://www.linkedin.com/in/%F0%9D%91%BB%F0%9D%92%89%F0%9D%92%8A%F0%9D%92%86%F0%9D%92%93%F0%9D%92%8F%F0%9D%92%90-%F0%9D%91%A9%F0%9D%92%90%F0%9D%92%84%F0%9D%92%82%F0%9D%92%93-%F0%9D%91%AB%F0%9D%91%B0%F0%9D%91%AC%F0%9D%91%B5%F0%9D%91%AE-2926b219b/"><img src="https://img.shields.io/badge/LINKEDIN-@diengwinz-0e76a8?style=for-the-badge&logo=linkedin&logoColor=0e76a8&logoWidth=25" alt="social_LINKEDIN"/></a>
+<a href="https://facebook.com/diengwinz"><img src="https://img.shields.io/badge/FACEBOOK-@diengwinz-4267B2?style=for-the-badge&logo=facebook&logoColor=4267B2&logoWidth=25" alt="social_facebook"></a>
+<a href="mailto:tdieng591@gmail.com"><img src="https://img.shields.io/badge/GMAIL-@diengwinz-B23121?style=for-the-badge&logo=gmail&logoColor=B23121&logoWidth=25" alt="social_gmail"></a>
 
 </p>
 
