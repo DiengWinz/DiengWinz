@@ -44,7 +44,18 @@ My life turns around 🚀Technology💻, 🧪Science🔭 and 🚗Cars🚘, and a
 <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"/>
 <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg"/>
 <img width="60" src="https://github.com/gilbarbara/logos/blob/main/logos/seaborn-icon.svg"/>
-<img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg"/>
+<img width="60" src="https://github.com/gilbarbara/logos/blob/main/logos/seaborn-icon.svg"/>
+<img width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg"/>
+<img width="60" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Talend_logo.svg"/>
+<img width="60" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg"/>
+<img width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg"/>
+<img width="60" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Microsoft_Excel_Logo_%282013-2019%29.svg"/>
+<img width="60" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
+<img width="60" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"/>
+<img width="60" src="https://upload.wikimedia.org/wikipedia/commons/3/35/GitLab_icon.svg"/>
+<img width="60" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000"/>
+<img width="60" src="https://th.bing.com/th/id/OIP.RJqwnRwzFT4xWx20C2WcjgHaDt?rs=1&pid=ImgDetMain"/>
+
 
 <img width="40" src="https://cdn.svgporn.com/logos/google-analytics.svg"/>
 
