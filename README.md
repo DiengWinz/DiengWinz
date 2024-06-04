@@ -162,6 +162,7 @@ Je suis ravi de partager mes projets et collaborations avec vous. N'hésitez pas
  <img width="40" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"/>
  <img width="40" src="https://static-00.iconduck.com/assets.00/windows-icon-512x512-mjan7d78.png"/>
  <img width="40" src="https://th.bing.com/th/id/OIP.XRtaAx7x5QdDVIyYgj20DAAAAA?rs=1&pid=ImgDetMain"/>
+  <img width="60" src="https://logowik.com/content/uploads/images/kali-linux2962.jpg"/>
  <img width="80" src="https://cdn.svgporn.com/logos/terminal.svg"/><br>
 </div>
 
