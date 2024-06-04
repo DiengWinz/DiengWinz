@@ -1,4 +1,4 @@
-# <img width="500" src="profil.jpg"/>
+# <img width="450" align="center" src="profil.jpg"/>
 
 #
  
