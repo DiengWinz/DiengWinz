@@ -1,4 +1,4 @@
-# <img width="450" align="center" src="profil.jpg"/>
+# <img width="450" align="center"; align="center" src="profil.jpg"/>
 
 #
  
@@ -160,6 +160,8 @@ Je suis ravi de partager mes projets et collaborations avec vous. N'hésitez pas
  <img width="80" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg"/>
  <img width="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"/>
  <img width="40" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"/>
+ <img width="40" src="https://static-00.iconduck.com/assets.00/windows-icon-512x512-mjan7d78.png"/>
+ <img width="40" src="https://th.bing.com/th/id/OIP.XRtaAx7x5QdDVIyYgj20DAAAAA?rs=1&pid=ImgDetMain"/>
  <img width="80" src="https://cdn.svgporn.com/logos/terminal.svg"/><br>
 </div>
 
